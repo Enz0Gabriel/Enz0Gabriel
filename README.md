@@ -10,7 +10,7 @@
 
 <h2>📄 Sobre Mim <img src="https://user-images.githubusercontent.com/124924248/218577908-30015ce1-b2c3-4268-96df-2bed9df84c2a.gif" width="50px" alt="about-me"> </h2>
 
-<span>Olá! Eu sou Enzo, um desenvolvedor Front-End <br/> apaixonado por resolver problemas e criar <br/> soluções inovadoras através da tecnologia. <br/> <br/> Tenho trabalhado em um projeto agora e <br/> pretendo desevolver outros no futuro, <br/> estou sempre buscando aprimorar minhas <br/> habilidades e aprender coisas novas. <br/> <br/> No meu tempo livre, gosto <br/> de participar de comunidades de tecnologia e <br/> contribuir com projetos  open source e jogar com amigos. <br/> <br/> Estou sempre disposto a colaborar e aprender com a comunidade!</span>
+<span>Sou um desenvolvedor Front-End <br/> apaixonado por resolver problemas e criar <br/> soluções inovadoras através da tecnologia. <br/> <br/> Tenho trabalhado em um projeto agora e <br/> pretendo desevolver outros no futuro, <br/> estou sempre buscando aprimorar minhas <br/> habilidades e aprender coisas novas. <br/> <br/> No meu tempo livre, gosto <br/> de participar de comunidades de tecnologia e <br/> contribuir com projetos  open source e jogar com amigos. <br/> <br/> Estou sempre disposto a colaborar e aprender com a comunidade!</span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
