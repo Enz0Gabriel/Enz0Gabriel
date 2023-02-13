@@ -26,4 +26,4 @@
 
 <img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" width="100%" height="7.5rem" />
 
-[![MasterFoot](https://user-images.githubusercontent.com/124924248/218567441-5e563007-2d64-4c90-8e4d-a7cb70d9261a.gif)]((https://user-images.githubusercontent.com/124924248/218567992-86990903-37e9-4f99-a6f9-b3d6426b645a.gif))
+[![MasterFoot](https://user-images.githubusercontent.com/124924248/218567441-5e563007-2d64-4c90-8e4d-a7cb70d9261a.gif)]([](https://user-images.githubusercontent.com/124924248/218569391-b0d95c73-aa78-48e9-8c05-8913daeff8f7.gif))
