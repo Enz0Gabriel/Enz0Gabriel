@@ -1,4 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/124924248/218557909-e4fdb36e-6601-4b8a-8ae0-ddd1bc0266fb.gif)]([](https://user-images.githubusercontent.com/124924248/218557909-e4fdb36e-6601-4b8a-8ae0-ddd1bc0266fb.gif))
+
 <h1 align="center">Olá, eu sou Enzo <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/hi.gif" width="28px" height="28px" alt="hi"></h1>
 <h2 align="center">Um developer do Brasil </h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124924248/218557924-a95723c3-c06c-4770-9533-0f414ec4ab1f.gif">
@@ -25,4 +26,4 @@
 
 <img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" width="100%" height="7.5rem" />
 
-[![MasterFoot](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif))
+[![MasterFoot](https://user-images.githubusercontent.com/124924248/218567441-5e563007-2d64-4c90-8e4d-a7cb70d9261a.gif)]((https://user-images.githubusercontent.com/124924248/218567992-86990903-37e9-4f99-a6f9-b3d6426b645a.gif))
