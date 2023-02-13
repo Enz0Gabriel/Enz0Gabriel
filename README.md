@@ -18,7 +18,10 @@
 
 # <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stats.gif" width="35px" alt="stats"> GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-85j9ufoay-soumyasagnik.vercel.app/api?username=Enz0Gabriel&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Enz0Gabriel" /></p>
+<p>&nbsp;
+
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Enz0Gabriel&theme=dark&count_private=true&theme=dark&hide_border=true" width="400"  alt="Enz0Gabriel" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
 
