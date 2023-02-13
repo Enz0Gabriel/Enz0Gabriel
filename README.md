@@ -1,0 +1,27 @@
+[![MasterHead](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner.gif))
+<h1 align="center">Olá, eu sou Enzo <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/hi.gif" width="28px" height="28px" alt="hi"></h1>
+<h2 align="center">Um developer do Brasil <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/flag.gif" width="30px" height="21px" alt="flag"></h2>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/coder.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /> </p>
+
+- 🌱 No momento estou aprendendo **React** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" width="20px" alt="react">
+
+- 📫 Email: **enzogabrielcarvalho123@gmail.com** <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/mail.gif" width="20px" alt="email">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/enzo-gabriel-60963125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/linkedin.gif" alt="https://www.linkedin.com/in/enzo-gabriel-60963125b/" height="40" width="40" /></a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/js.gif" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/css.gif" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/html.gif" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+# <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/stats.gif" width="35px" alt="stats"> GitHub Stats:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-85j9ufoay-soumyasagnik.vercel.app/api?username=soumyasagnik&show_icons=true&locale=en&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="soumyasagnik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
+
+<img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" width="100%" height="7.5rem" />
+
+[![MasterFoot](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif)]([https://soumyasagnik.io](https://raw.githubusercontent.com/SoumyaSagnik/images/main/banner2.gif))
