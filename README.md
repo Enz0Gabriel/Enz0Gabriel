@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/124924248/218557909-e4fdb36e-6601-4b8a-8ae0-ddd1bc0266fb.gif)]([](https://user-images.githubusercontent.com/124924248/218557909-e4fdb36e-6601-4b8a-8ae0-ddd1bc0266fb.gif))
 
 <h1 align="center">Olá, eu sou Enzo <img src="https://user-images.githubusercontent.com/124924248/218574284-b5fe5b82-b09f-4cd8-b68e-817f6170ad42.gif" width="28px" height="28px" alt="hi"></h1>
-<h2 align="center">Um developer Front-End </h2>
+<h2 align="center">Um Desenvolvedor Front-End </h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124924248/218557924-a95723c3-c06c-4770-9533-0f414ec4ab1f.gif">
 
 - 🌱 No momento estou aprendendo **React** <img src="https://user-images.githubusercontent.com/124924248/218573123-cce7b0f0-e291-4966-895f-ee6bce71afac.gif" width="20px" alt="react">
@@ -10,7 +10,7 @@
 
 <h2>📄 Sobre Mim <img src="https://user-images.githubusercontent.com/124924248/218577908-30015ce1-b2c3-4268-96df-2bed9df84c2a.gif" width="50px" alt="about-me"> </h2>
 
-<span>Sou um desenvolvedor Front-End <br/> apaixonado por resolver problemas e criar <br/> soluções inovadoras através da tecnologia. <br/> <br/> Tenho trabalhado em um projeto agora e <br/> pretendo desevolver outros no futuro, <br/> estou sempre buscando aprimorar minhas <br/> habilidades e aprender coisas novas. <br/> <br/> No meu tempo livre, gosto <br/> de participar de comunidades de tecnologia e <br/> contribuir com projetos  open source e jogar com amigos. <br/> <br/> Estou sempre disposto a colaborar e aprender com a comunidade!</span>
+<span>Sou um Desenvolvedor apaixonado por <br/> resolver problemas e criar soluções inovadoras <br/>  através da tecnologia. <br/> <br/> Estou desenvolvendo um projeto chamado <br/> Prime Flix e quado terminar pretendo partir <br/> para outros projetos, estou sempre buscando <br/> aprimorar minhas habilidades e aprender coisas novas. <br/> <br/> No meu tempo livre, gosto de participar de comunidades <br/>  de tecnologia, contribuir com projetos  open source <br/>  e jogar com amigos. <br/> <br/> Estou sempre disposto a colaborar e aprender com a comunidade!</span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
