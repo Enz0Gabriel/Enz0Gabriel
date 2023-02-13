@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/124924248/218557909-e4fdb36e-6601-4b8a-8ae0-ddd1bc0266fb.gif)]([](https://user-images.githubusercontent.com/124924248/218557909-e4fdb36e-6601-4b8a-8ae0-ddd1bc0266fb.gif))
 <h1 align="center">Olá, eu sou Enzo <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/hi.gif" width="28px" height="28px" alt="hi"></h1>
 <h2 align="center">Um developer do Brasil </h2>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/coder.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/124924248/218557924-a95723c3-c06c-4770-9533-0f414ec4ab1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyasagnik&label=Profile%20views&color=0e75b6&style=flat" alt="soumyasagnik" /> </p>
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/enzo-gabriel-60963125b/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/124924248/218557924-a95723c3-c06c-4770-9533-0f414ec4ab1f.gif" alt="https://www.linkedin.com/in/enzo-gabriel-60963125b/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/enzo-gabriel-60963125b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/linkedin.gif" alt="https://www.linkedin.com/in/enzo-gabriel-60963125b/" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/js.gif" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/react.gif" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/css.gif" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/html.gif" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
