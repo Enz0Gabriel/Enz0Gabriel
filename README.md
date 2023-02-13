@@ -20,10 +20,8 @@
 
 <p>&nbsp;
 
-<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Enz0Gabriel&theme=dark&count_private=true&theme=dark&hide_border=true" width="400"  alt="Enz0Gabriel" />
+<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Enz0Gabriel&theme=dark&count_private=true&theme=dark&hide_border=true"  alt="Enz0Gabriel" />
 </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyasagnik&theme=dark&hide_border=false" alt="soumyasagnik" /></p>
 
 <img align="center" src="https://raw.githubusercontent.com/SoumyaSagnik/images/main/border.gif" alt="border" width="100%" height="7.5rem" />
 
